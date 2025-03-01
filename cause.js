@@ -1,23 +1,23 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You always know how to make me laugh, even on my worst days! 😊", 
+        text: "Prothom jai din tor sathe amr porichoi hoi sai din e amr tore valo lagcilo ! 😊", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
-        emoji: "😆",
+        text: "Tor sai first pic tai tore koto golomolu lagtacilo🙈💗 ", 
+        emoji: "🤧",
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii Chillati hy mere upar isliyee, hehehe 💕", 
+        text: "Tui amr kono kotha rakhoc nh tau tui e valo 💕", 
         emoji: "👂",
         gif: "gif1.gif"
     },
     { 
-        text: "Our inside jokes are literally the best thing ever~", 
-        emoji: "🚀",
+        text: "Tui onek pocha tai tui onek valo ~", 
+        emoji: "😁",
         gif: "gif2.gif"
     }
 ];
